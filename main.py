@@ -1,4 +1,5 @@
 import telebot
+import PyTelegramBotAPI
 
 import sys
 import os
